@@ -10,8 +10,9 @@ This repository contains code to analyze and visualize sales data over different
 - Visualization: Generates informative plots to visualize daily, weekly, monthly, and time-of-day trends.
 
 ## Files
-sales_data_timeframe_analysis.py: Python script containing the code to perform sales analysis and visualizations.
-sales.csv: Dataset includes sales data for different states, times, units sold, and customer groups.
+
+- sales_data_timeframe_analysis.py: Python script containing the code to perform sales analysis and visualizations.
+- sales.csv: Dataset includes sales data for different states, times, units sold, and customer groups.
 
 ## Requirements
 To run the analysis, you'll need the following Python libraries:
